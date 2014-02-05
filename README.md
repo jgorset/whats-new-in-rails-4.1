@@ -17,9 +17,11 @@
 * Presumably supposed to be secret... yet version controlled.
 * As @espenhogbakk will tell you, version controlling your passwords is a bad thing.
 
-> "Hey guys, we made this new file where you can put all your passwords instead of in `config/application.rb`!"
-> "Awesome! Now we don't have to version control our passwords anymore!"
-> "About that..."
+```
+- "Hey guys, we made this new file where you can put all your passwords instead of in `config/application.rb`!"
+- "Awesome! Now we don't have to version control our passwords anymore!"
+- "About that..."
+```
 
 * Wat?
 
